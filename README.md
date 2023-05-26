@@ -9,8 +9,7 @@ This repository was primarily created for a workshop delivered at PyCon Italy, b
 2. Fine-tune Whisper on a language of your choice.
 3. Run inference with your fine-tuned/ Whisper model.
 
-### What is (Whisper)[https://openai.com/research/whisper] and why should you be excited about it?
+### What is [Whisper](https://openai.com/research/whisper) and why should you be excited about it?
 Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web. It enables transcription in multiple languages, as well as translation from those languages into English.
-
 
 
