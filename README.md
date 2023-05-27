@@ -8,3 +8,5 @@ This repository was primarily created for a workshop delivered at PyCon Italy, b
 1. What is ASR and why is it hard?
 2. Fine-tune Whisper on a language of your choice.
 3. Run inference with your fine-tuned/ Whisper model.
+
+Enjoyed the Workshop contents and want to take your fine-tuning game to the next level: https://github.com/Vaibhavs10/fast-whisper-finetuning 🤗
